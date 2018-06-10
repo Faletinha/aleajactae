@@ -10,7 +10,7 @@ import es.upo.cal.exam.jul.SetImplementation;
 public class SetUtil {
 
 	static final String [] availableStrings = { "A" , "B" , "C" , "D" , "E" , "F" , "G" , "H" , "I" };
-
+	static String asd = "";
 
 	public String getRandomString () {
 		Random dice = new Random ();
