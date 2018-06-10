@@ -18,6 +18,10 @@ public class SetUtil {
 		int n = dice.nextInt ( availableStrings.length-1 );
 		return availableStrings [n];
 	}
+	
+	public void aca() {
+		
+	}
 
 
 	public void mockSet ( Set <String> set , String [] otherStrings ) {
